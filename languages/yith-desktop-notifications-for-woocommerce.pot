@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Desktop Notifications for WooCommerce\n"
+"POT-Creation-Date: 2017-03-10 10:53+0000\n"
+"PO-Revision-Date: 2016-01-13 15:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: YITH <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:123
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:124
+msgid "Notifications"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:129
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:135
+msgctxt "plugin name in admin page title"
+msgid "Desktop Notifications"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:136
+msgctxt "plugin name in admin WP menu"
+msgid "Desktop Notifications"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:182
+msgid "Plugin documentation"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:186
+msgid "Help Center"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-admin.php:190
+msgid "Support platform"
+msgstr ""
+
+#: includes/class.yith-wcdn-desktop-notifications-ajax.php:69
+msgid "Notification"
+msgstr ""
+
+#: init.php:35
+msgctxt "Alert Message: WooCommerce requires"
+msgid ""
+"YITH WooCommerce Desktop Notifications is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: panel/settings-options.php:21
+msgctxt "Panel: page title"
+msgid "General settings"
+msgstr ""
+
+#: panel/settings-options.php:28
+msgctxt "Admin option: Check new notifications"
+msgid "Check new notifications"
+msgstr ""
+
+#: panel/settings-options.php:30
+msgctxt "Admin option description: number of days"
+msgid "Number of seconds to pass before checking for new notifications"
+msgstr ""
+
+#: panel/settings-options.php:39
+msgctxt "Admin option: Looping sound"
+msgid "Looping sound"
+msgstr ""
+
+#: panel/settings-options.php:41
+msgctxt ""
+"Admin option description: Check this option to set a looping sound that will "
+"stop when the notification is closed"
+msgid ""
+"Check this option to set a looping sound that will stop when the notification "
+"is closed"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:21
+msgid "Active Notifications"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:35
+msgid "Title:"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:43
+msgid "Description:"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:48
+msgid "Available placeholders:"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:59
+msgid "Notification icon:"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:80
+msgid "Notification length:"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:84
+msgid "Time in seconds, \"0\" = Default notification length"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:92
+msgid "Create new notification"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:95
+msgid "Update"
+msgstr ""
+
+#: templates/admin/notifications-load-options.php:103
+msgid "Preview notification"
+msgstr ""
+
+#: templates/premium/premium.php:217 templates/premium/premium.php:322
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Desktop Notifications for "
+"WooCommerce%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/premium/premium.php:220 templates/premium/premium.php:325
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/premium/premium.php:221 templates/premium/premium.php:326
+msgid "to the premium version"
+msgstr ""
+
+#: templates/premium/premium.php:227
+msgid "Premium Features"
+msgstr ""
+
+#: templates/premium/premium.php:235
+msgid "5 notification types"
+msgstr ""
+
+#: templates/premium/premium.php:238
+msgid ""
+"Have you noticed how useful can be a notification system that shows the "
+"actions related to your shop on your desktop?"
+msgstr ""
+
+#: templates/premium/premium.php:242
+#, php-format
+msgid "%1$sWhy limiting it to notify you only about new orders?%2$s"
+msgstr ""
+
+#: templates/premium/premium.php:245
+msgid ""
+"With the premium version of the plugin, you can enable the notifications also "
+"for the following actions:"
+msgstr ""
+
+#: templates/premium/premium.php:249
+msgid "the order was refunded"
+msgstr ""
+
+#: templates/premium/premium.php:252
+msgid "the order changed its status"
+msgstr ""
+
+#: templates/premium/premium.php:255
+msgid "a specific product of the shop was sold"
+msgstr ""
+
+#: templates/premium/premium.php:258
+msgid "the product turned into “out of stock” after the last sale"
+msgstr ""
+
+#: templates/premium/premium.php:269
+msgid "Custom notifications"
+msgstr ""
+
+#: templates/premium/premium.php:272
+#, php-format
+msgid ""
+"You can edit the body of each notification as you prefer by inserting "
+"%1$stitle%2$s and %1$sdescription%2$s to suit better your notices. ."
+msgstr ""
+
+#: templates/premium/premium.php:275
+#, php-format
+msgid ""
+"And that’s not all! By associating an %1$sicon%2$s and a %1$ssound%2$s to the "
+"messages when they are shown, they will stand out even more.  "
+msgstr ""
+
+#: templates/premium/premium.php:291
+msgid "User roles"
+msgstr ""
+
+#: templates/premium/premium.php:294
+#, php-format
+msgid ""
+"Who are the recipients of the notification you just configured? It’s up to "
+"you!%3$s The premium version of the plugin allows %1$snotifying%2$s only "
+"those users with a specific %1$srole%2$s in your shop. An essential feature "
+"to use the plugin at its best."
+msgstr ""
+
+#: templates/premium/premium.php:304
+msgid "Notification duration"
+msgstr ""
+
+#: templates/premium/premium.php:307
+#, php-format
+msgid "For %1$show long do you want to show%2$s the notification?"
+msgstr ""
+
+#: templates/premium/premium.php:310
+msgid ""
+"There are two options: remove it only when it was selected or hide it "
+"automatically at the end of the configured time span."
+msgstr ""
